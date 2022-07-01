@@ -1,5 +1,3 @@
-from ctypes import util
-from urllib import response
 from flask import Flask, request, jsonify
 import util
 
